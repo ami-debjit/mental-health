@@ -17,7 +17,7 @@ export default function Home() {
       </Head> */}
       {/* bg-gray-100 h-screen */}
 
-      <main className=" flex items-center justify-center">
+      <main className=" flex items-center bg-#cbd5e1 justify-center">
         <div className="max-w-md bg-white rounded-lg shadow-md p-8">
           <h1 className="text-3xl text-black font-bold mb-4">Welcome to Our Website</h1>
           <p className="text-gray-600 mb-4">

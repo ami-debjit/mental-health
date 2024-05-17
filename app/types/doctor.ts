@@ -5,6 +5,7 @@ interface Doctor {
     name: string;
     specialty: string;
     description: string;
+    photourl:string
   }
   
   export default Doctor;
